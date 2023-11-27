@@ -1,0 +1,108 @@
+{
+  "" : {
+    "diagnostics" : "/Users/neela/Documents/Demo Task/build/Demo Task.build/Debug-iphonesimulator/Demo Task.build/Objects-normal/arm64/Demo Task-master.dia",
+    "emit-module-dependencies" : "/Users/neela/Documents/Demo Task/build/Demo Task.build/Debug-iphonesimulator/Demo Task.build/Objects-normal/arm64/Demo Task-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/neela/Documents/Demo Task/build/Demo Task.build/Debug-iphonesimulator/Demo Task.build/Objects-normal/arm64/Demo Task-master-emit-module.dia",
+    "swift-dependencies" : "/Users/neela/Documents/Demo Task/build/Demo Task.build/Debug-iphonesimulator/Demo Task.build/Objects-normal/arm64/Demo Task-master.swiftdeps"
+  },
+  "/Users/neela/Documents/Demo Task/build/Demo Task.build/Debug-iphonesimulator/Demo Task.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/neela/Documents/Demo Task/build/Demo Task.build/Debug-iphonesimulator/Demo Task.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/neela/Documents/Demo Task/build/Demo Task.build/Debug-iphonesimulator/Demo Task.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/neela/Documents/Demo Task/build/Demo Task.build/Debug-iphonesimulator/Demo Task.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/Demo Task.build/Debug-iphonesimulator/Demo Task.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/neela/Documents/Demo Task/build/Demo Task.build/Debug-iphonesimulator/Demo Task.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/neela/Documents/Demo Task/build/Demo Task.build/Debug-iphonesimulator/Demo Task.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/neela/Documents/Demo Task/build/Demo Task.build/Debug-iphonesimulator/Demo Task.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/neela/Documents/Demo Task/build/Demo Task.build/Debug-iphonesimulator/Demo Task.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/neela/Documents/Demo Task/Demo Task/API/Endpoint.swift" : {
+    "const-values" : "/Users/neela/Documents/Demo Task/build/Demo Task.build/Debug-iphonesimulator/Demo Task.build/Objects-normal/arm64/Endpoint.swiftconstvalues",
+    "dependencies" : "/Users/neela/Documents/Demo Task/build/Demo Task.build/Debug-iphonesimulator/Demo Task.build/Objects-normal/arm64/Endpoint.d",
+    "diagnostics" : "/Users/neela/Documents/Demo Task/build/Demo Task.build/Debug-iphonesimulator/Demo Task.build/Objects-normal/arm64/Endpoint.dia",
+    "index-unit-output-path" : "/Demo Task.build/Debug-iphonesimulator/Demo Task.build/Objects-normal/arm64/Endpoint.o",
+    "llvm-bc" : "/Users/neela/Documents/Demo Task/build/Demo Task.build/Debug-iphonesimulator/Demo Task.build/Objects-normal/arm64/Endpoint.bc",
+    "object" : "/Users/neela/Documents/Demo Task/build/Demo Task.build/Debug-iphonesimulator/Demo Task.build/Objects-normal/arm64/Endpoint.o",
+    "swift-dependencies" : "/Users/neela/Documents/Demo Task/build/Demo Task.build/Debug-iphonesimulator/Demo Task.build/Objects-normal/arm64/Endpoint.swiftdeps",
+    "swiftmodule" : "/Users/neela/Documents/Demo Task/build/Demo Task.build/Debug-iphonesimulator/Demo Task.build/Objects-normal/arm64/Endpoint~partial.swiftmodule"
+  },
+  "/Users/neela/Documents/Demo Task/Demo Task/DemoApp.swift" : {
+    "const-values" : "/Users/neela/Documents/Demo Task/build/Demo Task.build/Debug-iphonesimulator/Demo Task.build/Objects-normal/arm64/DemoApp.swiftconstvalues",
+    "dependencies" : "/Users/neela/Documents/Demo Task/build/Demo Task.build/Debug-iphonesimulator/Demo Task.build/Objects-normal/arm64/DemoApp.d",
+    "diagnostics" : "/Users/neela/Documents/Demo Task/build/Demo Task.build/Debug-iphonesimulator/Demo Task.build/Objects-normal/arm64/DemoApp.dia",
+    "index-unit-output-path" : "/Demo Task.build/Debug-iphonesimulator/Demo Task.build/Objects-normal/arm64/DemoApp.o",
+    "llvm-bc" : "/Users/neela/Documents/Demo Task/build/Demo Task.build/Debug-iphonesimulator/Demo Task.build/Objects-normal/arm64/DemoApp.bc",
+    "object" : "/Users/neela/Documents/Demo Task/build/Demo Task.build/Debug-iphonesimulator/Demo Task.build/Objects-normal/arm64/DemoApp.o",
+    "swift-dependencies" : "/Users/neela/Documents/Demo Task/build/Demo Task.build/Debug-iphonesimulator/Demo Task.build/Objects-normal/arm64/DemoApp.swiftdeps",
+    "swiftmodule" : "/Users/neela/Documents/Demo Task/build/Demo Task.build/Debug-iphonesimulator/Demo Task.build/Objects-normal/arm64/DemoApp~partial.swiftmodule"
+  },
+  "/Users/neela/Documents/Demo Task/Demo Task/Model/DemoModel.swift" : {
+    "const-values" : "/Users/neela/Documents/Demo Task/build/Demo Task.build/Debug-iphonesimulator/Demo Task.build/Objects-normal/arm64/DemoModel.swiftconstvalues",
+    "dependencies" : "/Users/neela/Documents/Demo Task/build/Demo Task.build/Debug-iphonesimulator/Demo Task.build/Objects-normal/arm64/DemoModel.d",
+    "diagnostics" : "/Users/neela/Documents/Demo Task/build/Demo Task.build/Debug-iphonesimulator/Demo Task.build/Objects-normal/arm64/DemoModel.dia",
+    "index-unit-output-path" : "/Demo Task.build/Debug-iphonesimulator/Demo Task.build/Objects-normal/arm64/DemoModel.o",
+    "llvm-bc" : "/Users/neela/Documents/Demo Task/build/Demo Task.build/Debug-iphonesimulator/Demo Task.build/Objects-normal/arm64/DemoModel.bc",
+    "object" : "/Users/neela/Documents/Demo Task/build/Demo Task.build/Debug-iphonesimulator/Demo Task.build/Objects-normal/arm64/DemoModel.o",
+    "swift-dependencies" : "/Users/neela/Documents/Demo Task/build/Demo Task.build/Debug-iphonesimulator/Demo Task.build/Objects-normal/arm64/DemoModel.swiftdeps",
+    "swiftmodule" : "/Users/neela/Documents/Demo Task/build/Demo Task.build/Debug-iphonesimulator/Demo Task.build/Objects-normal/arm64/DemoModel~partial.swiftmodule"
+  },
+  "/Users/neela/Documents/Demo Task/Demo Task/Model/ProfileView.swift" : {
+    "const-values" : "/Users/neela/Documents/Demo Task/build/Demo Task.build/Debug-iphonesimulator/Demo Task.build/Objects-normal/arm64/ProfileView-866b1f26809d83019afd472c7b5c18cc.swiftconstvalues",
+    "dependencies" : "/Users/neela/Documents/Demo Task/build/Demo Task.build/Debug-iphonesimulator/Demo Task.build/Objects-normal/arm64/ProfileView-866b1f26809d83019afd472c7b5c18cc.d",
+    "diagnostics" : "/Users/neela/Documents/Demo Task/build/Demo Task.build/Debug-iphonesimulator/Demo Task.build/Objects-normal/arm64/ProfileView-866b1f26809d83019afd472c7b5c18cc.dia",
+    "index-unit-output-path" : "/Demo Task.build/Debug-iphonesimulator/Demo Task.build/Objects-normal/arm64/ProfileView-866b1f26809d83019afd472c7b5c18cc.o",
+    "llvm-bc" : "/Users/neela/Documents/Demo Task/build/Demo Task.build/Debug-iphonesimulator/Demo Task.build/Objects-normal/arm64/ProfileView-866b1f26809d83019afd472c7b5c18cc.bc",
+    "object" : "/Users/neela/Documents/Demo Task/build/Demo Task.build/Debug-iphonesimulator/Demo Task.build/Objects-normal/arm64/ProfileView-866b1f26809d83019afd472c7b5c18cc.o",
+    "swift-dependencies" : "/Users/neela/Documents/Demo Task/build/Demo Task.build/Debug-iphonesimulator/Demo Task.build/Objects-normal/arm64/ProfileView-866b1f26809d83019afd472c7b5c18cc.swiftdeps",
+    "swiftmodule" : "/Users/neela/Documents/Demo Task/build/Demo Task.build/Debug-iphonesimulator/Demo Task.build/Objects-normal/arm64/ProfileView-866b1f26809d83019afd472c7b5c18cc~partial.swiftmodule"
+  },
+  "/Users/neela/Documents/Demo Task/Demo Task/ViewModel/DemoViewModel.swift" : {
+    "const-values" : "/Users/neela/Documents/Demo Task/build/Demo Task.build/Debug-iphonesimulator/Demo Task.build/Objects-normal/arm64/DemoViewModel.swiftconstvalues",
+    "dependencies" : "/Users/neela/Documents/Demo Task/build/Demo Task.build/Debug-iphonesimulator/Demo Task.build/Objects-normal/arm64/DemoViewModel.d",
+    "diagnostics" : "/Users/neela/Documents/Demo Task/build/Demo Task.build/Debug-iphonesimulator/Demo Task.build/Objects-normal/arm64/DemoViewModel.dia",
+    "index-unit-output-path" : "/Demo Task.build/Debug-iphonesimulator/Demo Task.build/Objects-normal/arm64/DemoViewModel.o",
+    "llvm-bc" : "/Users/neela/Documents/Demo Task/build/Demo Task.build/Debug-iphonesimulator/Demo Task.build/Objects-normal/arm64/DemoViewModel.bc",
+    "object" : "/Users/neela/Documents/Demo Task/build/Demo Task.build/Debug-iphonesimulator/Demo Task.build/Objects-normal/arm64/DemoViewModel.o",
+    "swift-dependencies" : "/Users/neela/Documents/Demo Task/build/Demo Task.build/Debug-iphonesimulator/Demo Task.build/Objects-normal/arm64/DemoViewModel.swiftdeps",
+    "swiftmodule" : "/Users/neela/Documents/Demo Task/build/Demo Task.build/Debug-iphonesimulator/Demo Task.build/Objects-normal/arm64/DemoViewModel~partial.swiftmodule"
+  },
+  "/Users/neela/Documents/Demo Task/Demo Task/Views/ContentView.swift" : {
+    "const-values" : "/Users/neela/Documents/Demo Task/build/Demo Task.build/Debug-iphonesimulator/Demo Task.build/Objects-normal/arm64/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/neela/Documents/Demo Task/build/Demo Task.build/Debug-iphonesimulator/Demo Task.build/Objects-normal/arm64/ContentView.d",
+    "diagnostics" : "/Users/neela/Documents/Demo Task/build/Demo Task.build/Debug-iphonesimulator/Demo Task.build/Objects-normal/arm64/ContentView.dia",
+    "index-unit-output-path" : "/Demo Task.build/Debug-iphonesimulator/Demo Task.build/Objects-normal/arm64/ContentView.o",
+    "llvm-bc" : "/Users/neela/Documents/Demo Task/build/Demo Task.build/Debug-iphonesimulator/Demo Task.build/Objects-normal/arm64/ContentView.bc",
+    "object" : "/Users/neela/Documents/Demo Task/build/Demo Task.build/Debug-iphonesimulator/Demo Task.build/Objects-normal/arm64/ContentView.o",
+    "swift-dependencies" : "/Users/neela/Documents/Demo Task/build/Demo Task.build/Debug-iphonesimulator/Demo Task.build/Objects-normal/arm64/ContentView.swiftdeps",
+    "swiftmodule" : "/Users/neela/Documents/Demo Task/build/Demo Task.build/Debug-iphonesimulator/Demo Task.build/Objects-normal/arm64/ContentView~partial.swiftmodule"
+  },
+  "/Users/neela/Documents/Demo Task/Demo Task/Views/MapView.swift" : {
+    "const-values" : "/Users/neela/Documents/Demo Task/build/Demo Task.build/Debug-iphonesimulator/Demo Task.build/Objects-normal/arm64/MapView.swiftconstvalues",
+    "dependencies" : "/Users/neela/Documents/Demo Task/build/Demo Task.build/Debug-iphonesimulator/Demo Task.build/Objects-normal/arm64/MapView.d",
+    "diagnostics" : "/Users/neela/Documents/Demo Task/build/Demo Task.build/Debug-iphonesimulator/Demo Task.build/Objects-normal/arm64/MapView.dia",
+    "index-unit-output-path" : "/Demo Task.build/Debug-iphonesimulator/Demo Task.build/Objects-normal/arm64/MapView.o",
+    "llvm-bc" : "/Users/neela/Documents/Demo Task/build/Demo Task.build/Debug-iphonesimulator/Demo Task.build/Objects-normal/arm64/MapView.bc",
+    "object" : "/Users/neela/Documents/Demo Task/build/Demo Task.build/Debug-iphonesimulator/Demo Task.build/Objects-normal/arm64/MapView.o",
+    "swift-dependencies" : "/Users/neela/Documents/Demo Task/build/Demo Task.build/Debug-iphonesimulator/Demo Task.build/Objects-normal/arm64/MapView.swiftdeps",
+    "swiftmodule" : "/Users/neela/Documents/Demo Task/build/Demo Task.build/Debug-iphonesimulator/Demo Task.build/Objects-normal/arm64/MapView~partial.swiftmodule"
+  },
+  "/Users/neela/Documents/Demo Task/Demo Task/Views/ProfileDetailView.swift" : {
+    "const-values" : "/Users/neela/Documents/Demo Task/build/Demo Task.build/Debug-iphonesimulator/Demo Task.build/Objects-normal/arm64/ProfileDetailView.swiftconstvalues",
+    "dependencies" : "/Users/neela/Documents/Demo Task/build/Demo Task.build/Debug-iphonesimulator/Demo Task.build/Objects-normal/arm64/ProfileDetailView.d",
+    "diagnostics" : "/Users/neela/Documents/Demo Task/build/Demo Task.build/Debug-iphonesimulator/Demo Task.build/Objects-normal/arm64/ProfileDetailView.dia",
+    "index-unit-output-path" : "/Demo Task.build/Debug-iphonesimulator/Demo Task.build/Objects-normal/arm64/ProfileDetailView.o",
+    "llvm-bc" : "/Users/neela/Documents/Demo Task/build/Demo Task.build/Debug-iphonesimulator/Demo Task.build/Objects-normal/arm64/ProfileDetailView.bc",
+    "object" : "/Users/neela/Documents/Demo Task/build/Demo Task.build/Debug-iphonesimulator/Demo Task.build/Objects-normal/arm64/ProfileDetailView.o",
+    "swift-dependencies" : "/Users/neela/Documents/Demo Task/build/Demo Task.build/Debug-iphonesimulator/Demo Task.build/Objects-normal/arm64/ProfileDetailView.swiftdeps",
+    "swiftmodule" : "/Users/neela/Documents/Demo Task/build/Demo Task.build/Debug-iphonesimulator/Demo Task.build/Objects-normal/arm64/ProfileDetailView~partial.swiftmodule"
+  },
+  "/Users/neela/Documents/Demo Task/Demo Task/Views/ProfileView.swift" : {
+    "const-values" : "/Users/neela/Documents/Demo Task/build/Demo Task.build/Debug-iphonesimulator/Demo Task.build/Objects-normal/arm64/ProfileView-bc9ac0ec5919c388c601bbd878ce951a.swiftconstvalues",
+    "dependencies" : "/Users/neela/Documents/Demo Task/build/Demo Task.build/Debug-iphonesimulator/Demo Task.build/Objects-normal/arm64/ProfileView-bc9ac0ec5919c388c601bbd878ce951a.d",
+    "diagnostics" : "/Users/neela/Documents/Demo Task/build/Demo Task.build/Debug-iphonesimulator/Demo Task.build/Objects-normal/arm64/ProfileView-bc9ac0ec5919c388c601bbd878ce951a.dia",
+    "index-unit-output-path" : "/Demo Task.build/Debug-iphonesimulator/Demo Task.build/Objects-normal/arm64/ProfileView-bc9ac0ec5919c388c601bbd878ce951a.o",
+    "llvm-bc" : "/Users/neela/Documents/Demo Task/build/Demo Task.build/Debug-iphonesimulator/Demo Task.build/Objects-normal/arm64/ProfileView-bc9ac0ec5919c388c601bbd878ce951a.bc",
+    "object" : "/Users/neela/Documents/Demo Task/build/Demo Task.build/Debug-iphonesimulator/Demo Task.build/Objects-normal/arm64/ProfileView-bc9ac0ec5919c388c601bbd878ce951a.o",
+    "swift-dependencies" : "/Users/neela/Documents/Demo Task/build/Demo Task.build/Debug-iphonesimulator/Demo Task.build/Objects-normal/arm64/ProfileView-bc9ac0ec5919c388c601bbd878ce951a.swiftdeps",
+    "swiftmodule" : "/Users/neela/Documents/Demo Task/build/Demo Task.build/Debug-iphonesimulator/Demo Task.build/Objects-normal/arm64/ProfileView-bc9ac0ec5919c388c601bbd878ce951a~partial.swiftmodule"
+  }
+}

@@ -1,0 +1,6 @@
+Target dependency graph (3 targets)
+Target 'Demo TaskUITests' in project 'Demo Task'
+➜ Explicit dependency on target 'Demo Task' in project 'Demo Task'
+Target 'Demo TaskTests' in project 'Demo Task'
+➜ Explicit dependency on target 'Demo Task' in project 'Demo Task'
+Target 'Demo Task' in project 'Demo Task' (no dependencies)

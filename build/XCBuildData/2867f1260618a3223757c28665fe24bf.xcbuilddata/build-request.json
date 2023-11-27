@@ -1,0 +1,67 @@
+{
+  "buildCommand" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildOnly"
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "50179c0dd85a96b6edad88cda49fef19037ffc1f7cb57771716d4f948b94421e"
+    }
+  ],
+  "containerPath" : "/Users/neela/Documents/Demo Task/Demo Task.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator17.0",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "",
+      "buildProductsPath" : "",
+      "derivedDataPath" : "/Users/neela/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/neela/Library/Developer/Xcode/DerivedData/Demo_Task-hfhhygrntchwwfdtsurhyxqyahej/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/neela/Library/Developer/Xcode/DerivedData/Demo_Task-hfhhygrntchwwfdtsurhyxqyahej/Index.noindex/PrecompiledHeaders",
+      "pchPath" : ""
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPhone15,5",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "17.0.1",
+          "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "iPhone15,5",
+          "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+          "CLANG_COVERAGE_MAPPING" : "YES",
+          "CLANG_PROFILE_DATA_DIRECTORY" : "/Users/neela/Library/Developer/Xcode/DerivedData/Demo_Task-hfhhygrntchwwfdtsurhyxqyahej/CodeCoverage/ProfileData",
+          "CLANG_STATIC_ANALYZER_MODE" : "$(CLANG_STATIC_ANALYZER_MODE_ON_ANALYZE_ACTION)",
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "NO",
+          "RUN_CLANG_STATIC_ANALYZER" : "YES",
+          "TARGET_DEVICE_IDENTIFIER" : "D72344A8-4479-49F8-A662-2D4FBBAE5903",
+          "TARGET_DEVICE_MODEL" : "iPhone15,5",
+          "TARGET_DEVICE_OS_VERSION" : "17.0.1",
+          "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
